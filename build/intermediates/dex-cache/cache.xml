@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/feddcc38d5cf0e3601f91844e00dbc4ae15e7181/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_3b8337d7b091a6e8df0bc78edf6a5f004d1c73d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/812b3d76476dc0a417b06884b3c5fc23802062f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_3aeca48763fad77f85bbd5badd4c9f4520543a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/93981413546b0b44df5239cb1cd7d7427922a7ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_4264263fa2330540a80e0670e0159887548fac47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/107d334478f56c78c6ec292b602a394cf5abd8c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_79d45a63a14342d92679e807decb32eacde1f374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/8db41e4a1f3ef4f6a506a09688fe136398d95486/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_2bb7a8bbc4009442760bedcd11a127bf644e5b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/ef34b6cdf4d8b6f2c03aa54be392a7d53e1f232f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_50112a2a6820bc6bbf3f7ff02c3db5a9962fa703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/80aae8605e17e120a30453fa9deeaf96b6b2d82a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_17bb2deee263ff92e08f54e5235771191de08b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/605a658115fef4bf66ab3a580887cea567778eaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_a9bc39c7f483844f415315cbaffd362bf1230d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/8447f5f6f188d6a1e5c15a6c0abd033ac3f407d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_0ffa41cf7e7ad8687272eda965ef651bd63afba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/c75cddfa3e97f655a5da49e226fe46eccb70b571/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_db4014ad7551d3c5dbaff9a7d605cd5708294e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/7af2b153bd11384aebd19191c4ba0b10049d1600/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_51493853d7a651bcca54caaca0eabf629bca0d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/9d696b866b2ab1fbc5dd8dbd9a2a405a585beeb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_1f3c37f58eafab06ad4283881f6fc4b8c4f62f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/89e6a2617e11fe0b679a47b29c50e4b95b9bf929/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_053959d0953f76d329134bc91f9162cd193361a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/ddda8f53b12ff290fdc0e6103f79d3b1bc884b70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_a45147634edf1b85d3eb74dae517dbb8da5406b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/46af52ebab8aef0ded46a68de5a2bd7012b0a4b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_61a1e3cc48e58aa71f27198f84736de848978aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/55f558dafd97ae7515c9ec5b08c6da1222ee4bcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_5bf54cbe1f3c80e810a30a99bbbff0180cca2016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/1cf65551cff49efd0751e0057112af401a23410e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_bf320cd945870791d38bc58351ab83099e591288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/4957bd2e8075f8d5504cb9c383be595881cd8162/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_89259cdfdd80a31848daae0847d6c6344e737f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anluo/.android/build-cache/70eba11bde133acfe2ff7c73ed81e363bfe3af70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/anluo/AndroidStudioProjects/EventCircle/app/build/intermediates/pre-dexed/debug/classes_277d208bd5bb823ba0ce58628b56b3acb17b7dae.jar" />
+    </item>
+
+</items>
